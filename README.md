@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -113,6 +114,9 @@
             </a>
             <a href="https://www.instagram.com/call.medym?igsh=YzljYTk1ODg3Zg==" target="_blank" class="fade-in">
                 <i class="fab fa-instagram"></i> Instagram
+            </a>
+            <a href="https://www.tiktok.com/@yourusername" target="_blank" class="fade-in">
+                <i class="fab fa-tiktok"></i> TikTok
             </a>
         </div>
         <a class="contact fade-in" href="https://wa.me/6281236216420" target="_blank">
